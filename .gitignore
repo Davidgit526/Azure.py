@@ -1,0 +1,13 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables
+.env
+
+# Ignore SQLite database (if used locally for testing)
+*.sqlite3
+
+# Ignore other system files
+.DS_Store
+.vscode/
